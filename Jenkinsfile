@@ -5,7 +5,7 @@ stages {
  stage("test") {
 	steps {
 script {
-steps.echo 'develop 2'
+steps.echo 'test'
 }
 i}
 }
