@@ -5,9 +5,9 @@ stages {
  stage("test") {
 	steps {
 script {
-steps.echo 'thanh'
+steps.echo 'test'
 }
-}
+i}
 }
 }
 }
